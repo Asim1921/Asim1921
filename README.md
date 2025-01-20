@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim1921" alt="asim1921" /></a> </p>
 
-- 🔭 I’m currently working on [FitAiCoach](https://github.com/Asim1921/gymUstaad)
-
+- 🔭 I’m currently working on with Meta-dao as Software Engineer
 - 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [github](github)
